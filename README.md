@@ -3,7 +3,7 @@
  <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
-![icount-high-resolution-logo-transparent](https://github.com/user-attachments/assets/5ced34cf-7a9c-4f21-9cf0-c4ff2c48670e)
+![icount-high-resolution-logo-transparent](https://github.com/user-attachments/assets/90f95cca-ce71-41f5-8162-696fb9188b10)
 
 <h1> ℹ️ Descição do projeto </h1>
 <p>
@@ -17,11 +17,13 @@
 
 - `Cadastro de contas`:  o usuário poderá criar uma nova conta.
 
-![image](https://github.com/user-attachments/assets/71870e6f-2bc3-44fb-8121-03b1b1e3c72b)
+![Captura de tela 2024-08-06 112304](https://github.com/user-attachments/assets/6cdd076c-6219-4a5b-a4d7-6de8866575f6)
+
 
 - `Lista de contas`:  o usuário poderá visualizar a lista paginada com as contas criadas, e poderá editar, excluir ou mesmo pagar uma conta.
 
-![image](https://github.com/user-attachments/assets/c605e031-3fea-449d-a433-a93f33ed6f03)
+![Captura de tela 2024-08-06 112505](https://github.com/user-attachments/assets/5541b6b1-f969-43a1-bb88-6f77d24c4cb0)
+
 
 
 <h1> 📁 Acesso ao projeto </h1> 
