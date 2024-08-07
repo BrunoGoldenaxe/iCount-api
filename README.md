@@ -17,11 +17,13 @@
 
 - `Cadastro de contas`:  o usuário poderá criar uma nova conta.
 
-![image](https://github.com/user-attachments/assets/71870e6f-2bc3-44fb-8121-03b1b1e3c72b)
+![Captura de tela 2024-08-06 112304](https://github.com/user-attachments/assets/6cdd076c-6219-4a5b-a4d7-6de8866575f6)
+
 
 - `Lista de contas`:  o usuário poderá visualizar a lista paginada com as contas criadas, e poderá editar, excluir ou mesmo pagar uma conta.
 
-![image](https://github.com/user-attachments/assets/c605e031-3fea-449d-a433-a93f33ed6f03)
+![Captura de tela 2024-08-06 112505](https://github.com/user-attachments/assets/5541b6b1-f969-43a1-bb88-6f77d24c4cb0)
+
 
 
 <h1> 📁 Acesso ao projeto </h1> 
