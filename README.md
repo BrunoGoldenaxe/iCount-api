@@ -3,7 +3,7 @@
  <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
-![icount-high-resolution-logo-transparent](https://github.com/user-attachments/assets/5ced34cf-7a9c-4f21-9cf0-c4ff2c48670e)
+![icount-high-resolution-logo-transparent](https://github.com/user-attachments/assets/90f95cca-ce71-41f5-8162-696fb9188b10)
 
 <h1> ℹ️ Descição do projeto </h1>
 <p>
